@@ -1,0 +1,98 @@
+.navbar{
+    background-color: green;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.navbar-body{
+    display: flex;
+    justify-content: space-between;
+}
+.Garder{
+display: flex;
+justify-content: space-around;
+padding-right: 300px;
+}
+.inspiration{
+    display: flex;
+    
+}
+.gardern{
+    display: flex;
+    justify-content: space-around;
+}
+.all-plants{
+    display: flex;
+    justify-content: space-around;
+}
+.beauty{
+    display: flex;
+    justify-content: space-around;
+}
+.Auctor{
+    padding-left: 420px;
+}
+.product{
+    padding-left:420px ;
+    font: 600;
+}
+.best-product{
+    display: flex;
+    justify-content: space-around;
+
+}
+.shop{
+    border:solid 1px;
+    background-color: rgb(29, 223, 29);
+    color: white;
+    width: 200px;
+}
+.more{
+    background-color: rgb(28, 192, 28);
+    color: white;
+    border-radius: 5px;
+    width: 200px;
+}
+.living{
+    padding-left: 500px;
+}
+.words{
+    padding-left: 400px;
+    font-size: 30px;
+}
+.Amazing{
+display: flex;
+justify-content: space-around;
+}
+.section2{
+    display: flex;
+    justify-content: space-around;
+}
+.sections{
+    display: flex;
+    justify-content: space-around;
+}
+.cactus{
+    display: flex;
+    justify-content: space-around;
+}
+.Blog{
+    padding-left: 420px;
+    font-size: 30px;
+}
+.Jangle{
+    display: flex;
+    justify-content: space-around;
+}
+.clients{
+    font-size: 30px;
+    text-align: center;
+}
+.girl{
+    display: flex;
+    justify-content: space-around;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+}
