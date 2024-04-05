@@ -34,7 +34,7 @@ padding-right: 300px;
 }
 .product{
     padding-left:420px ;
-    font: 600;
+    font-size: 40px;
 }
 .best-product{
     display: flex;
@@ -58,7 +58,7 @@ padding-right: 300px;
 }
 .words{
     padding-left: 400px;
-    font-size: 30px;
+    font-size: 40px;
 }
 .Amazing{
 display: flex;
@@ -78,14 +78,14 @@ justify-content: space-around;
 }
 .Blog{
     padding-left: 420px;
-    font-size: 30px;
+    font-size: 40px;
 }
 .Jangle{
     display: flex;
     justify-content: space-around;
 }
 .clients{
-    font-size: 30px;
+    font-size: 40px;
     text-align: center;
 }
 .girl{
@@ -95,4 +95,7 @@ justify-content: space-around;
 .footer{
     display: flex;
     justify-content: space-around;
+}
+.summer{
+    font-size: 40px;
 }
